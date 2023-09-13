@@ -7,5 +7,4 @@ Institute of Technology.")
 
 if __name__ == '__main__':
     print_KIT()
-    print_hello()
-    
+    print_hsello()

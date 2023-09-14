@@ -7,3 +7,4 @@ def maxProfit_bruteforce (prices):
 
    return
 
+print("aaa")

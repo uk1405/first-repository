@@ -1,7 +1,7 @@
 def print_hello():
-    print("Hello World!!")
+    print("Bye World!!")
 
 if __name__ == '__main__':
     print_hello()
-print("hello")
-prtibt("hello")
+print("bye")
+prtibt("bye")
